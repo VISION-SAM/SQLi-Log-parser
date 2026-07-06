@@ -40,7 +40,7 @@ No external dependencies are required. The script uses standard internal Python 
 
 ## Running the Analyzer 
 To execute a scan against a local log file, open your terminal and run:
-    ```Bash
+    
     python log_analyzer.py -f access.log
 
 ## 🛡️ Security Disclaimer
